@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1037944834239",
+    "firebase_url": "https://imagemanager-d825c.firebaseio.com",
+    "project_id": "imagemanager-d825c",
+    "storage_bucket": "imagemanager-d825c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037944834239:android:86a08cb73a9f0609ba9e0a",
+        "android_client_info": {
+          "package_name": "fr.amineomz.image_manager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037944834239-qduc777j6k7fka4n9cfi67tajlo0v1i9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "fr.amineomz.image_manager",
+            "certificate_hash": "b213761b57defc759b00a0b2fae0e9468d61a3d0"
+          }
+        },
+        {
+          "client_id": "1037944834239-j3fvucsr3u58a7j0emcgqq1db3n5nomu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkGqblTKu2xVSvfVpC8YaqVyBXjhZJiKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1037944834239-j3fvucsr3u58a7j0emcgqq1db3n5nomu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

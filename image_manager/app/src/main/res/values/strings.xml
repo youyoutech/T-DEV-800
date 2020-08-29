@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ImageManager</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="authentication">Authentification</string>
+    <string name="redirect_register">Vous n\'êtes pas inscrit ? Inscrivez-vous</string>
+
+    <string name="new_account">Création d\'un nouveau compte</string>
+    <string name="redirect_login">Déjà inscrit ? Connectez-vous</string>
+    <string name="forgot_password">Mot de passe oublié ?</string>
+</resources>
